@@ -1,4 +1,4 @@
 # You're the boss
 
-Fight heroes here to steal your tresure in your dungeon
+Fight the heroes coming to steal your tresure in your dungeon
 
