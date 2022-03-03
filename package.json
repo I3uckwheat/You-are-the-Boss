@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "http-server": "^14.1.0",
+    "parcel-bundler": "^1.12.5",
     "phaser": "^3.55.2"
   }
 }
